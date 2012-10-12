@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="100" height="50" tilewidth="8" tileheight="8">
+ <tileset firstgid="1" name="iceTiles2" tilewidth="8" tileheight="8">
+  <image source="iceTiles2.png" width="352" height="32"/>
+ </tileset>
+ <layer name="Tile Layer 1" width="100" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3HRw2AUBRFwW+CYodih2KHIpYrguRtZpKzOK0BAAAAAAAAAAAAAAAAAAAAAAB/61KfhjT68p/SnJa0+vLf0p6OdPryv9KdnvT68v8AmbZRNyBOAAA=
+  </data>
+ </layer>
+ <objectgroup name="Collision" width="100" height="50"/>
+ <objectgroup name="Corner" width="100" height="50"/>
+ <objectgroup name="Walls" width="100" height="50"/>
+ <objectgroup name="Start" width="100" height="50"/>
+ <objectgroup name="End" width="100" height="50"/>
+</map>
